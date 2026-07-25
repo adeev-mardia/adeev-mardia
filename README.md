@@ -33,4 +33,4 @@ Python • JavaScript • React • Node.js • PHP • MySQL • HTML/CSS • A
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adeev--mardia-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adeev-mardia)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0005-5259-7771)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0005-5259-7771-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0005-5259-7771)
