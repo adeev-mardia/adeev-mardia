@@ -1,6 +1,6 @@
 # Hey, I'm Adeev 👋
 
-CS @ UC San Diego • Builder • Open Source Contributor
+Researcher • Builder • Open Source Contributor
 
 I've been coding since I was 12 — started with games and random experiments, now I contribute to ML/AI libraries like HuggingFace Transformers, LangChain, Google ADK, and pydantic-ai. Currently figuring out what I want to build next.
 
